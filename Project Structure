@@ -1,0 +1,12 @@
+CircularEconomyPlatform/
+│── backend/                  # Flask/Django Backend
+│   │── models/                # Database models
+│   │── routes/                # API routes
+│   │── services/              # Business logic & AI recommendations
+│   │── main.py                # Main app entry point
+│   │── config.py              # Configuration settings
+│── frontend/                  # React or HTML/CSS/JS Frontend
+│── chatbot/                   # AI Chatbot Assistance
+│── database/                  # PostgreSQL setup
+│── requirements.txt           # Dependencies
+│── README.md                  # Documentation
